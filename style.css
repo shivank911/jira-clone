@@ -1,0 +1,14 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin: 0px;
+}
+.container{
+    height: 100vh;
+}
+.navbar{
+    background-color: #57606f;
+    height: 15vh;
+}
